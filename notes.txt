@@ -1,0 +1,3 @@
+one hot encode track_genre
+
+drop_first for track_genre we only need 2 columns as we can infer the 3rd from the other 2
